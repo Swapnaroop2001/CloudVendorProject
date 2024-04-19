@@ -24,7 +24,7 @@ The Cloud Vendor API is a RESTful API designed to manage cloud vendor informatio
 - `GET /api/vendors`: Retrieve all cloud vendors.
 - `GET /api/vendors/{id}`: Retrieve details of a specific cloud vendor.
 - `POST /api/vendors`: Create a new cloud vendor.
-- `PUT /api/vendors/{id}`: Update details of a specific cloud vendor.
+- `PUT /api/vendors`: Update details of a specific cloud vendor.
 - `DELETE /api/vendors/{id}`: Delete a cloud vendor.
 
 ## Technologies Used
