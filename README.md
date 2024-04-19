@@ -41,7 +41,7 @@ The Cloud Vendor API is a RESTful API designed to manage cloud vendor informatio
 4. Access the API endpoints using an HTTP client or Swagger UI.
 
 ## Contributors
-- Your Name - Role/Responsibility
+- Swapnaroop Salgare
 
 ## License
 This project is licensed under the MIT License.
