@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cloud_vendor?useSSL=false
+    username: root
+    password: Swap1234567@#
+  jpa:
+    hibernate:
+      ddl-auto: create
